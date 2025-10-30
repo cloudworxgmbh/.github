@@ -1,0 +1,14 @@
+# the .editorconfig provides a common default config for IntelliJ and multiple other editors
+
+root = true
+
+[*]
+charset = utf-8 
+# enforces LF by default
+end_of_line = lf
+# line spacing with size 3
+indent_size = 3 
+indent_style = space
+insert_final_newline = true
+tab_width = 3
+trim_trailing_whitespace = true

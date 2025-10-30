@@ -1,0 +1,7 @@
+###############################
+# Git Line Endings            #
+###############################
+
+# default behaviour to automatic, but ensure eol is LF instead of CR (MacOS) or CRLF (Windows)
+# if your editor shows you diffs due to line endings, please ensure your editor uses LF instead.
+* text=auto eol=lf
